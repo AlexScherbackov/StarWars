@@ -50,12 +50,10 @@
 		},
 		data(){
 			return{
-				starwarsData: []
+				
 			}
 		},
-		mounted(){
-			
-		},
+		
 	}
 </script>
 <style lang="scss" scoped>
